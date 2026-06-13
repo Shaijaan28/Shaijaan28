@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shaijaan Rauf! 👋
 
-<!--
-**Shaijaan28/Shaijaan28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 B.Tech CSE @ GGSESTC Bokaro | JUT
+- 💻 Learning DSA in C++
+- 🎯 Goal: Software Engineer
+- 📍 Dhanbad, Jharkhand
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## DSA Progress (Striver A2Z)
+- ✅ Arrays (44 problems)
+- ✅ Binary Search (27 problems)
+- ✅ Strings (in progress)
+- 🔄 Linked List (learning)
+
+## Connect With Me
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
+(https://leetcode.com/u/Shaijaan28)
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+(https://www.linkedin.com/in/shaijaan-rauf-478)
+
+![Shaijaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaijaan28&show_icons=true&theme=radical)
