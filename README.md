@@ -30,3 +30,13 @@
 (https://www.linkedin.com/in/shaijaan-rauf-478)
 
 ![Shaijaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaijaan28&show_icons=true&theme=radical)
+
+![Shaijaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaijaan28&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaijaan28&layout=compact&theme=tokyonight)
+
+## 🔥 Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaijaan28&theme=tokyonight)
+
+## 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.com/Shaijaan28?theme=dark&font=Karma)
