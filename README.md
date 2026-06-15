@@ -39,4 +39,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaijaan28&theme=tokyonight)
 
 ## 🏆 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.com/Shaijaan28?theme=dark&font=Karma)
+![LeetCode Stats](https://leetcard.jacoblin.com/Shaijaan28?theme=dark&font=Karma&ext=contest)
