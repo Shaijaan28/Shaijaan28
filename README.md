@@ -19,7 +19,7 @@
 - ✅ Arrays (44 problems)
 - ✅ Binary Search (27 problems)
 - ✅ Strings (in progress)
-- ✅ Linked List (25 problem)
+- ✅ Linked List (24 problem)
 
 ## Connect With Me
 
